@@ -10,7 +10,6 @@ SGL_RS02505	PC11M	SGL_RS02505:RXN:1 amet_c + 1 pre4_c <-> 1 ahcys_c + 1 h_c + 1 
 SGL_RS02940	MPML	SGL_RS02940:RXN:1 atp_c + 1 h2o_c + 1 mg2_c + 1 ppp9_c <-> 1 adp_c + 3 h_c + 1 mppp9_c + 1 pi_c	ATP + protoporphyrin IX + Mg2+ + H2O = ADP + phosphate + Mg-protoporphyrin IX + 2 H+
 SGL_RS02960	GOR1	SGL_RS02960:RXN:1 glx_c + 2 h_c + 1 nadh_c + 1 nh3_c <-> 1 gly_c + 1 h2o_c + 1 nad_c	IN OTHERS: Glycine + H2O + NAD+ <=> Glyoxylate + Ammonia + NADH + H+
 SGL_RS02960	ALAD_L2	SGL_RS02960:RXN:2 h_c + 1 nadh_c + 1 nh3_c + 1 pyr_c <-> 1 ala__L_c + 1 h2o_c + 1 nad_c	L-alanine + H2O + NAD+ = pyruvate + NH3 + NADH + H+
-SGL_RS03060	PAPSR	SGL_RS03060:RXN:1 paps_c + 1 trdrd_c <-> 2 h_c + 1 pap_c + 1 so3_c + 1 trdox_c	adenosine 3',5'-bisphosphate + sulfite + thioredoxin disulfide = 3'-phosphoadenylyl sulfate + thioredoxin
 SGL_RS03075	SHKK	SGL_RS03075:RXN:1 atp_c + 1 skm_c <-> 1 adp_c + 1 h_c + 1 skm5p_c	ATP + shikimate = ADP + 3-phosphoshikimate
 SGL_RS03135	PPNDH	SGL_RS03135:RXN:1 h_c + 1 pphn_c <-> 1 co2_c + 1 h2o_c + 1 phpyr_c	prephenate = phenylpyruvate + H2O + CO2
 SGL_RS03210	ICDHyr	SGL_RS03210:RXN:1 icit_c + 1 nadp_c <-> 1 akg_c + 1 co2_c + 1 nadph_c	isocitrate + NADP+ = 2-oxoglutarate + CO2 + NADPH + H+ (overall reaction)
